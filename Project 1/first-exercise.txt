@@ -1,0 +1,9 @@
+git clone 
+
+mkdir 
+
+touch 
+
+vim 
+
+These are some of the commands I used while working on making this sample file.
